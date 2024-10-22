@@ -1,3 +1,5 @@
+# Gladiatorspelet
+
 import random
 
 spe_hal = 10
